@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "id": "Enkidu",
+  "id": "enkidu_meme_pack",
   "name": "Meme Pack Enkidu",
   "version": "1.0.0",
   "description": "Runtime-managed meme pack",
